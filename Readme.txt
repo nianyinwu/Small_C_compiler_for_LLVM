@@ -1,5 +1,4 @@
-資工三 409410121 吳年茵
-Project 4 - Small C compiler for LLVM IR
+## Small C compiler for LLVM IR
 
 1. Feature of my Compiler
 (1) lexical analyzer 去識別C subset並將字串轉為token
