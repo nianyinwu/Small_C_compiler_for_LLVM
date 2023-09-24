@@ -22,7 +22,7 @@ to generate myCompilerLexer.java、myCompilerParser.java and myCompiler.tokens
 #### Step 2.  javac -cp ./antlr-3.5.3-complete-no-st3.jar:. *.java 
 process compile
 ### 2. Second way :  
-#### use Makefile command "make"  
+use Makefile command "make"  
 
 ## Execute:
 ### Step 1. generate .ll file
